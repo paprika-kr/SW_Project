@@ -1,0 +1,6 @@
+﻿  SIFT.cpp
+  siftCommand.cpp
+  snnnnnnL03.cpp
+c:\users\sogang\desktop\lab03_실습자료_v4\swlab19f_3_sift_lab_std\swlab19f_3_sift\snnnnnnl03.cpp(74): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  swLab19f_3_SIFT.vcxproj -> C:\Users\SOGANG\Desktop\Lab03_실습자료_V4\swLab19f_3_SIFT_Lab_Std\Debug\swLab19f_3_SIFT.exe
